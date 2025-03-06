@@ -1,4 +1,4 @@
-## Olá, me chamo Gedson Júnior e sou estudante de Engenharia de Software
+## Olá, me chamo Gedson Júnior e sou estudante de Engenharia de Software e Web Designer
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Junior-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"">
@@ -17,3 +17,13 @@
   <a href="https://www.linkedin.com/in/gedsonjuniordev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+## 🚀 Projetos
+
+### 🌎 **Websites**
+- [📌 XZBT Painting](https://xzbtpainting.com/) → Website para uma empresa de pintura nos EUA.  
+- [📌 Missi Painting](https://missipainting.com/) → Website para outra empresa de pintura nos EUA.  
+- [📌 LondriCar](https://londricar.com/) → Website para uma empresa do setor automotivo no Brasil.  
+- [📌 Hydrautech Mangueiras](https://hydrautechmangueiras.com.br/) → Website para uma empresa especializada em mangueiras hidráulicas no Brasil.  
+- [📌 Golden Chaves](https://goldenchaves.com.br/) → Website para uma empresa de serviços no Brasil.  
+
